@@ -1,4 +1,5 @@
 [
   "hubot-help",
-  "jobot-brain-file"
+  "jobot-brain-file",
+  "hubot-github-repo-event-notifier"
 ]
