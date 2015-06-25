@@ -10,7 +10,9 @@
     "hubot-help": "^0.1.1",
     "hubot-irc": "^0.2.7",
     "irc-colors": "~1.1",
-    "jobot-brain-file": "^0.1.4"
+    "jobot-brain-file": "^0.1.4",
+    "twit": "^1.1.20",
+    "underscore": "^1.8.3"
   },
   "engines": {
     "node": "0.10.x"
