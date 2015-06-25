@@ -1,6 +1,6 @@
-# Robbie
+# Slim-bot
 
-Robbie is a chat bot built on the [Hubot][hubot] framework.
+Slim-bot is a chat bot built on the [Hubot][hubot] framework.
 
 
 
