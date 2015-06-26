@@ -30,7 +30,7 @@ config =
 module.exports = (robot) ->
   twit = undefined
 
-  robot.hear /!tw(?:itter)?\s?(\S*)/i, (msg) ->
+  robot.hear /^!tw(?:itter)?\s?(\S*)/i, (msg) ->
     unless config.consumer_key
       msg.send "Please set the HUBOT_TWITTER_CONSUMER_KEY environment variable."
       return
