@@ -1,0 +1,1 @@
+../my_modules/hubot-github-repo-event-notifier/src/github-repo-event-notifier.coffee
