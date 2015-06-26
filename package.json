@@ -5,6 +5,7 @@
   "author": "Rob Allen <rob@akrabat.com>",
   "description": "A hubot",
   "dependencies": {
+    "githubot": "^1.0.0",
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.1.1",
